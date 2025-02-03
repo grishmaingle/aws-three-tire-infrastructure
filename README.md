@@ -233,8 +233,6 @@ Step 13: Deleting the Entire Infrastructure
 
 => Delete VPC.
 
-=> Delete RDS subnet group, RDS.
-
 
 
 
